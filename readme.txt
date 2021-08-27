@@ -1,3 +1,9 @@
+
+MACHINE LEARNING PROJECT
+
+Classifying Ephemeral vs Evergreen Content on the Web
+
+
 ->Go to Script folder
 ->Commands to install libraries required (Use virtual environment):
 	$ virtualenv -p /usr/bin/python project
